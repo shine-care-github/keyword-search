@@ -19,4 +19,5 @@ pip install beautifulsoup4
 4. 실행한 이후에 프로그램의 안내대로 입력해주시면 검색결과를 얻을 수 있습니다.
 
 ## 실행 결과
-<img width="574" alt="image" src="https://github.com/shine-care-github/keyword-search/assets/45550607/0e184f32-4251-440f-82ec-66639a885ef4">
+![image](https://github.com/shine-care-github/keyword-search/assets/45550607/8dfc3f14-57fb-422f-bb9c-b169b628eb30)
+
